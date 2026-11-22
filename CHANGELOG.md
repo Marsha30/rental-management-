@@ -8,3 +8,4 @@
 - 2026-11-22: 225 North Ave A moved to Nov 24 (was Nov 23, per Marsha); Ja-Von Scarboro Confirmed via Turno #40141844.
 - 2026-11-22: Chrissy Bradley added for Gulf Shores and Gulf Shores 16 on Nov 29, Confirmed (was Needs cleaner). Confirmed in texts Nov 19.
 - 2026-11-22: Amanda added for 614 on Nov 29, Confirmed (was Needs cleaner). Confirmed in texts Oct 26 and Nov 13.
+- 2026-11-22: Ja-Von Scarboro added for 225 North Ave A on Nov 29, Confirmed (was Needs cleaner). Accepted in Turno #40141916, $140; checkout verified in OwnerRez Nov 22.

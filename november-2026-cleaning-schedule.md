@@ -36,7 +36,7 @@ Keep assignment changes in this file with the date, unit, cleaner, and confirmat
 | Tue, Nov 24 | 225 North Ave A | Ja-Von Scarboro | Confirmed |  | Gabrielle Feltner checkout; Turno #40141844, 10am-3pm, $140 |
 | Tue, Nov 24 | 722 | Brianna Bourne | Confirmed |  | Jacob Seale checkout |
 | Sat, Nov 28 | 714 | Araceli | Date needs confirmation |  | Rene Williams checkout appears Nov 28; prior assignment Nov 29 |
-| Sun, Nov 29 | 225 North Ave A | Unassigned | Needs cleaner |  | Josh Gilmore checkout |
+| Sun, Nov 29 | 225 North Ave A | Ja-Von Scarboro | Confirmed |  | Josh Gilmore checkout; Turno #40141916, $140 |
 | Sun, Nov 29 | 311 | Brianna Bourne | Confirmed |  | Chief Formaneck checkout |
 | Sun, Nov 29 | 614 | Amanda | Confirmed |  | Darlene Shepherd checkout |
 | Sun, Nov 29 | 722 | Jessica (Turno) | Confirmed; date review |  | Page confirms Jessica; screenshot shows Jan Renzing continuing beyond Nov 29 |
