@@ -6,3 +6,5 @@
 - 2026-11-21: Yadira Guevara added for 121 on Nov 22, Confirmed (was Needs cleaner).
 - 2026-11-21: Schedule and change log copied to this repository from the ChatGPT schedule page and spreadsheet.
 - 2026-11-22: 225 North Ave A moved to Nov 24 (was Nov 23, per Marsha); Ja-Von Scarboro Confirmed via Turno #40141844.
+- 2026-11-22: Chrissy Bradley added for Gulf Shores and Gulf Shores 16 on Nov 29, Confirmed (was Needs cleaner). Confirmed in texts Nov 19.
+- 2026-11-22: Amanda added for 614 on Nov 29, Confirmed (was Needs cleaner). Confirmed in texts Oct 26 and Nov 13.

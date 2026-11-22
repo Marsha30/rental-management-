@@ -38,10 +38,10 @@ Keep assignment changes in this file with the date, unit, cleaner, and confirmat
 | Sat, Nov 28 | 714 | Araceli | Date needs confirmation |  | Rene Williams checkout appears Nov 28; prior assignment Nov 29 |
 | Sun, Nov 29 | 225 North Ave A | Unassigned | Needs cleaner |  | Josh Gilmore checkout |
 | Sun, Nov 29 | 311 | Brianna Bourne | Confirmed |  | Chief Formaneck checkout |
-| Sun, Nov 29 | 614 | Unassigned | Needs cleaner |  | Darlene Shepherd checkout |
+| Sun, Nov 29 | 614 | Amanda | Confirmed |  | Darlene Shepherd checkout |
 | Sun, Nov 29 | 722 | Jessica (Turno) | Confirmed; date review |  | Page confirms Jessica; screenshot shows Jan Renzing continuing beyond Nov 29 |
-| Sun, Nov 29 | Gulf Shores | Unassigned | Needs cleaner |  | Tracy Conlin checkout |
-| Sun, Nov 29 | Gulf Shores 16 | Unassigned | Needs cleaner |  | Adam Rust checkout |
+| Sun, Nov 29 | Gulf Shores | Chrissy Bradley | Confirmed |  | Tracy Conlin checkout |
+| Sun, Nov 29 | Gulf Shores 16 | Chrissy Bradley | Confirmed |  | Adam Rust checkout |
 | Mon, Nov 30 | 712 | Unassigned | Needs cleaner |  | Patricia Varnum checkout |
 
 ## Items to confirm
