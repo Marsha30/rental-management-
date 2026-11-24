@@ -32,9 +32,10 @@ Keep assignment changes in this file with the date, unit, cleaner, and confirmat
 | Sun, Nov 22 | 614 | Amanda | Confirmed | Same-day | Amanda confirmed on page; Jeremy checkout / Darlene arrival |
 | Sun, Nov 22 | 712 | Araceli | Assigned |  | Joy Hall checkout |
 | Sun, Nov 22 | 714 | Briana | Assigned |  | Orianna Martinez checkout |
-| Tue, Nov 24 | 225 North Ave A | Ja-Von Scarboro | Confirmed |  | Gabrielle Feltner checkout; Turno #40141844, 10am-3pm, $140 |
+| Mon, Nov 23 | 225 North Ave A | Ja-Von Scarboro (Sharrise) | Confirmed |  | Gabrielle Feltner checkout, noon late checkout; Turno #40141844, 10am-3pm |
 | Tue, Nov 24 | 311 | Araceli | Confirmed |  | Emory Hagan checkout |
 | Tue, Nov 24 | 722 | Brianna Bourne | Confirmed |  | Jacob Seale checkout |
+| Wed, Nov 25 | 714 | Araceli | Confirmed |  | Carrie Hagan stay canceled; Rene Williams arrives Nov 25, clean before arrival |
 | Sat, Nov 28 | 714 | Araceli | Date needs confirmation |  | Rene Williams checkout appears Nov 28; prior assignment Nov 29 |
 | Sun, Nov 29 | 225 North Ave A | Ja-Von Scarboro | Confirmed |  | Josh Gilmore checkout; Turno #40141916, $140 |
 | Sun, Nov 29 | 311 | Brianna Bourne | Confirmed |  | Chief Formaneck checkout |
