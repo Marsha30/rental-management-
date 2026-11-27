@@ -1,6 +1,6 @@
 # November 2026 Cleaning Schedule
 
-Cleaning assignments for November 2026, copied from the shared ChatGPT schedule page "November 2026 Cleaning Schedule" and the attached spreadsheet "Combined November Cleaning Schedule 2026". Last synced from those sources: 2026-11-22.
+Cleaning assignments for November 2026, copied from the shared ChatGPT schedule page "November 2026 Cleaning Schedule" and the attached spreadsheet "Combined November Cleaning Schedule 2026". Last synced from those sources: 2026-11-27.
 
 Checkout dates are read from the right edges of reservation bars; flagged dates need confirmation.
 
@@ -36,7 +36,7 @@ Keep assignment changes in this file with the date, unit, cleaner, and confirmat
 | Tue, Nov 24 | 311 | Araceli | Confirmed |  | Emory Hagan checkout |
 | Tue, Nov 24 | 722 | Brianna Bourne | Confirmed |  | Jacob Seale checkout |
 | Wed, Nov 25 | 714 | Araceli | Confirmed |  | Carrie Hagan stay canceled; Rene Williams arrives Nov 25, clean before arrival |
-| Sat, Nov 28 | 714 | Araceli | Date needs confirmation |  | Rene Williams checkout appears Nov 28; prior assignment Nov 29 |
+| Sat, Nov 28 | 714 | Araceli | Confirmed |  | Rene Williams checkout Nov 28; Araceli confirmed Nov 27 per Marsha |
 | Sun, Nov 29 | 225 North Ave A | Ja-Von Scarboro | Confirmed |  | Josh Gilmore checkout; Turno #40141916, $140 |
 | Sun, Nov 29 | 311 | Brianna Bourne | Confirmed |  | Chief Formaneck checkout |
 | Sun, Nov 29 | 614 | Amanda | Confirmed |  | Darlene Shepherd checkout |
@@ -48,7 +48,6 @@ Keep assignment changes in this file with the date, unit, cleaner, and confirmat
 ## Items to confirm
 
 - Confirm acceptance for Briana in 714 and Araceli in 712 on November 22; assign cleaners to rows marked Needs cleaner.
-- Confirm Araceli's unit 714 cleaning date: the screenshot appears to show November 28, while the prior assignment was November 29.
 - Jessica is confirmed for 722, but the November 29 date needs review because the reservation continues beyond that date.
 - Verify the retained November 20 task for Brianna in 614, since the screenshot shows the guest checking out November 22. Confirm completion of November 20 tasks.
 - Unit 121 also appears to check out December 1; Jan Renzing in 722 continues beyond the visible calendar.
@@ -63,6 +62,7 @@ Keep assignment changes in this file with the date, unit, cleaner, and confirmat
 - 2026-11-29 — 722 date review: Jessica confirmed on page; Jan Renzing continues beyond Nov 29. Verify task.
 - 2026-11-20 — 614 task review: Brianna assignment retained; screenshot checkout Nov 22. Amanda confirmed for Nov 22 on page.
 - 2026-12-01 — 121 next checkout: Andreas Linow appears to check out Dec 1; outside November schedule.
+- 2026-11-27 — 714 Nov 28 confirmed: Araceli confirmed the Nov 28 date, per Marsha.
 
 ## Change log
 
