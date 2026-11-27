@@ -12,3 +12,4 @@
 - 2026-11-22: 311 moved to Nov 24 (was Nov 23, per OwnerRez extension); Araceli Confirmed (was Needs cleaner).
 - 2026-11-23: 225 North Ave A moved to Nov 23 (was Nov 24); Ja-Von Scarboro (Sharrise) Confirmed. OwnerRez checkout Nov 23, noon late checkout; Turno #40141844 moved to Nov 23, 10am-3pm. Ja-Von and Sharrise are the same person, per Marsha.
 - 2026-11-24: 714 Nov 25 Araceli Confirmed added. Carrie Hagan stay canceled, no Nov 25 checkout; Rene Williams arrives Nov 25, clean kept before arrival per Marsha.
+- 2026-11-27: Araceli — unit 714 — November 28 — status changed from "Date needs confirmation" to "Confirmed" (confirmed by Marsha Nov 27).
