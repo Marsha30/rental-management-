@@ -43,7 +43,7 @@ Keep assignment changes in this file with the date, unit, cleaner, and confirmat
 | Sun, Nov 29 | 722 | Jessica (Turno) | Confirmed; date review |  | Page confirms Jessica; screenshot shows Jan Renzing continuing beyond Nov 29 |
 | Sun, Nov 29 | Gulf Shores | Chrissy Bradley | Confirmed |  | Tracy Conlin checkout |
 | Sun, Nov 29 | Gulf Shores 16 | Chrissy Bradley | Confirmed |  | Adam Rust checkout |
-| Mon, Nov 30 | 712 | Unassigned | Needs cleaner |  | Patricia Varnum checkout |
+| Mon, Nov 30 | 712 | Tatiana | Confirmed |  | Patricia Varnum checkout |
 
 ## Items to confirm
 
@@ -63,6 +63,7 @@ Keep assignment changes in this file with the date, unit, cleaner, and confirmat
 - 2026-11-20 — 614 task review: Brianna assignment retained; screenshot checkout Nov 22. Amanda confirmed for Nov 22 on page.
 - 2026-12-01 — 121 next checkout: Andreas Linow appears to check out Dec 1; outside November schedule.
 - 2026-11-27 — 714 Nov 28 confirmed: Araceli confirmed the Nov 28 date, per Marsha.
+- 2026-11-28 — Nov 30, 712: Tatiana confirmed (was Needs cleaner), Patricia Varnum checkout, per Marsha.
 
 ## Change log
 
